@@ -1,1 +1,1 @@
-# Object-Oriented-Programming redefined by the Half Blood Prince
+# Object-Oriented-Programming by the Half Blood Prince

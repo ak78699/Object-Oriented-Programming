@@ -1,0 +1,3 @@
+Operator Overloading:
+In C++, there are particular operators that you may redefine to change their functionality. However, it must be remembered that these 
+operator function must either by non-static, or friend functions. Here, non-static implies operators that are a part of the defined class. 
